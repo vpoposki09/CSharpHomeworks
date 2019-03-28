@@ -1,0 +1,10 @@
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\bin\Debug\DuelGame.exe.config
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\bin\Debug\DuelGame.exe
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\bin\Debug\DuelGame.pdb
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\bin\Debug\ClassLibrary2.dll
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\bin\Debug\ClassLibrary2.pdb
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\obj\Debug\DuelGame.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\obj\Debug\DuelGame.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\obj\Debug\DuelGame.csproj.CopyComplete
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\obj\Debug\DuelGame.exe
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\DuelGame\obj\Debug\DuelGame.pdb

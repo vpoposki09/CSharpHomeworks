@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{BE030A99-FE95-4A60-865D-3A0EF46FA079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuelGame", "DuelGame\DuelGame.csproj", "{FD4E01AD-802D-4A20-8FB4-8078E4939260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE030A99-FE95-4A60-865D-3A0EF46FA079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE030A99-FE95-4A60-865D-3A0EF46FA079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE030A99-FE95-4A60-865D-3A0EF46FA079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE030A99-FE95-4A60-865D-3A0EF46FA079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4E01AD-802D-4A20-8FB4-8078E4939260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4E01AD-802D-4A20-8FB4-8078E4939260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4E01AD-802D-4A20-8FB4-8078E4939260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4E01AD-802D-4A20-8FB4-8078E4939260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07A40A91-6F6B-47B0-A22A-A9A3AAEF53BD}
+	EndGlobalSection
+EndGlobal

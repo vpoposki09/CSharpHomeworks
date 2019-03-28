@@ -1,0 +1,6 @@
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\vladi\Desktop\C#Basic.Homework05\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
